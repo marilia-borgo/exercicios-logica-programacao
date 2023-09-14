@@ -6,4 +6,4 @@ numa = float(int(num + 0.00001))
 
 print(f'Parte inteira: {numi}')
 print(f'Parte fracionária: {(numfrac + 0.00001):.3f}')
-print(f'\nParte arredondado: {numa}')
+print(f'Parte arredondado: {numa}')
